@@ -48,7 +48,7 @@ export const StatCard = ({
         <Typography
           sx={{ marginTop: '20px' }}
           fontSize="0.8rem"
-          color="#e3e3e3"
+          color="#e9e9e9"
         >
           {subIcon} {percentageValue}%
         </Typography>
